@@ -1,0 +1,6 @@
+{
+    "usingComponents": {
+
+        "van-notify": "../../wxComponents/vant-weapp/notify/index"
+    }
+}
